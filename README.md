@@ -1,0 +1,2 @@
+# GoBang-Qt
+ai assignment
