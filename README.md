@@ -1,4 +1,4 @@
-# GoBang-Qt
+# Gomoku
 ai assignment
 
 person vs AI
