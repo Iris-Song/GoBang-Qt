@@ -19,5 +19,5 @@ you can download exe.rar to run the program without install environment
 alpha-beta + MinMax search
 
 ## others
-you can see detailed report [here](https://github.com/Iris-Song/8Puzzle/blob/main/report.pdf) (Chinese language)
+you can see detailed report [here](https://github.com/Iris-Song/Gomoku/blob/main/report.pdf) (Chinese language)
 
